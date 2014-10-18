@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com"
+           review="android-review.googlesource.com" />
+
+  <remote  name="github"
+           fetch=".."/>
+
+  <default revision="master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="tools/base" name="platform/tools/base"  remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="lucasdai" name="jetsondroid-device-nvidia-jetsontk1-kernel"/>
+</manifest>
