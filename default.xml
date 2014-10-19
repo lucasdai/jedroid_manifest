@@ -14,5 +14,5 @@
            sync-j="4" />
 
   <project path="tools/base" name="platform/tools/base"  remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="lucasdai" name="jetsondroid-device-nvidia-jetsontk1-kernel"/>
+  <project path="lucasdai" name="lucasdai/jetsondroid-device-nvidia-jetsontk1-kernel"/>
 </manifest>
