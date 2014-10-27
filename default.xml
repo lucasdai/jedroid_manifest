@@ -20,7 +20,7 @@
 
 
   <project path="bionic" name="lucasdai/android_bionic" remote="jedroid" groups="pdk"/>
-  <project path="device/nvidia/jedroid" name="lucasdai/android_device_nvidia_jedroid"remote="jedroid"/>
+  <project path="device/nvidia/jedroid" name="lucasdai/android_device_nvidia_jedroid" remote="jedroid"/>
   <project path="externel/bluetooth" name="lucasdai/android_external_bluetooth"remote="jedroid"/>
   <project path="hardware/iwlwifi" name="lucasdai/android_hardware_iwlwifi"remote="jedroid"/>
   <project path="frameworks/native" name="android/platform/frameworks/native" remote="nvidia_oss"/>
