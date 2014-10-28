@@ -12,6 +12,7 @@
            revision="rel-20-mp1-partner" />
 
   <remote  name="jedroid"
+           revision="master"
            fetch=".."/>
 
   <default remote="aosp"
