@@ -25,7 +25,7 @@
   <project path="externel/bluetooth" name="lucasdai/android_external_bluetooth" remote="jedroid" revision="master"/>
   <project path="hardware/iwlwifi" name="lucasdai/android_hardware_iwlwifi" remote="jedroid" revision="master"/>
 
-  <project path="frameworks/native" name="android/platform/frameworks/native" remote="nvidia_oss" />
+  <project path="frameworks/native" name="android/platform/frameworks/native" remote="nvidia_oss" revision="rel-20-mp1-partner"/>
 
 
   <project path="build" name="platform/build" groups="pdk" >
