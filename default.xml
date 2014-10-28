@@ -15,9 +15,10 @@
            revision="master"
            fetch=".."/>
 
-  <default remote="aosp"
-           sync-c="true"
+  <default revision="refs/tags/android-4.4.2_r2"                                          
+           remote="aosp"
            sync-j="4" />
+
 
 
   <project path="bionic" name="lucasdai/android_bionic" remote="jedroid" revision="master"/>
