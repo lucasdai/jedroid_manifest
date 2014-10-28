@@ -20,7 +20,7 @@
            sync-j="4" />
 
 
-  <project path="bionic" name="lucasdai/android_bionic" remote="jedroid" revision="master/>
+  <project path="bionic" name="lucasdai/android_bionic" remote="jedroid" revision="master"/>
   <project path="device/nvidia/jedroid" name="lucasdai/android_device_nvidia_jedroid" remote="jedroid" revision="master"/>
   <project path="externel/bluetooth" name="lucasdai/android_external_bluetooth" remote="jedroid" revision="master"/>
   <project path="hardware/iwlwifi" name="lucasdai/android_hardware_iwlwifi" remote="jedroid" revision="master"/>
